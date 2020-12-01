@@ -17,15 +17,15 @@ Whenever you commit to this repository, You can connect me with e-mail 194341758
 
 
 ### 最新消息
-#### 正在就读大学
+ 正在就读大学
 
 ### 研究方向
-# not decide yet.
+not decide yet.
 ### 荣耀奖励
 
 ### 项目研究
 not decide yet.
 #### 项目描述
-###  
+ 
 
 
