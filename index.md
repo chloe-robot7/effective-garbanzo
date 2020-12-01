@@ -1,15 +1,9 @@
-## Welcome to GitHub Pages
+### Welcome My page “chloe-robot7”
 
-You can use the [editor on GitHub](https://github.com/chloe-robot7/effective-garbanzo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can know my basic information there
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, You can connect me with e-mail 1943417584@qq.com
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
