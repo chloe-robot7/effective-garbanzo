@@ -4,13 +4,10 @@ You can know my basic information there
 
 Whenever you commit to this repository, You can connect me with e-mail 1943417584@qq.com
 
+###个人信息
+####学校
+#浙江万里学院 通信工程专业
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
