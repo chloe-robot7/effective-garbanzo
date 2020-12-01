@@ -4,15 +4,23 @@ You can know my basic information there
 
 Whenever you commit to this repository, You can connect me with e-mail 1943417584@qq.com
 
-###个人信息
-####学校
-#浙江万里学院 通信工程专业
+### 个人信息
+
+#### 学校
+# 浙江万里学院
+### 专业
+#  通信工程专业
+### 学历
+# 本科
+### 联系方式
+# 邮箱：194347584@qq.com
 
 
-1. Numbered
-2. List
+### 最新消息
+# 正在就读大学
 
-**Bold** and _Italic_ and `Code` text
+
+
 
 [Link](url) and ![Image](src)
 ```
